@@ -1,0 +1,47 @@
+{
+  "name": "ianm/follow-users",
+  "description": "Follow users and be notified of new discussions",
+  "keywords": [
+    "flarum", "subscribe", "following", "friends"
+  ],
+  "type": "flarum-extension",
+  "license": "MIT",
+  "support": {
+    "issues": "https://github.com/imorland/follow-users/issues",
+    "source": "https://github.com/imorland/follow-users",
+    "forum": "https://discuss.flarum.org/d/25701"
+  },
+  "require": {
+    "flarum/core": "^0.1.0-beta.16",
+    "fof/follow-tags": "^0.7.1"
+  },
+  "authors": [
+    {
+      "name": "IanM",
+      "homepage": "https://discuss.flarum.org/u/ianm",
+      "role": "Developer"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "IanM\\FollowUsers\\": "src/"
+    }
+  },
+  "extra": {
+    "flarum-extension": {
+      "title": "IM Follow Users",
+      "category": "feature",
+      "icon": {
+        "name": "fas fa-user-friends",
+        "backgroundColor": "#0072e3",
+        "color": "#fff"
+      },
+      "optional-dependencies": {
+        "fof/follow-tags": "*"
+      }
+    },
+    "flagrow": {
+      "discuss": "https://discuss.flarum.org/d/25701"
+    }
+  }
+}
