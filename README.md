@@ -2,13 +2,24 @@
 
 > **Read-only archive of released versions of ianm/follow-users.** Not for installation: use [Packagist](https://packagist.org/packages/ianm/follow-users) or the [upstream repository](https://github.com/imorland/follow-users).
 
-**0** versions archived · Latest: [`2.0.0-beta.9`](https://github.com/flarchive/ianm-follow-users/tree/archive/v2.0.0-beta.9) · License: `MIT` · Flarum: `^2.0.0`
+**41** versions archived · Latest: [`2.0.0-beta.9`](https://github.com/flarchive/ianm-follow-users/tree/archive/v2.0.0-beta.9) (stable: [`0.1.0`](https://github.com/flarchive/ianm-follow-users/tree/archive/v0.1.0)) · License: `MIT` · Flarum: `^2.0.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1.0` | 2020-12-20 | `^0.1.0-beta.15` | [Browse](https://github.com/flarchive/ianm-follow-users/tree/archive/v0.1.0) |
+| `0.1.1` | 2020-12-30 | `^0.1.0-beta.15` | [Browse](https://github.com/flarchive/ianm-follow-users/tree/archive/v0.1.1) |
+| `0.1.2` | 2021-01-11 | `^0.1.0-beta.15` | [Browse](https://github.com/flarchive/ianm-follow-users/tree/archive/v0.1.2) |
+| `0.2.0` | 2021-03-28 | `^0.1.0-beta.16` | [Browse](https://github.com/flarchive/ianm-follow-users/tree/archive/v0.2.0) |
+| `0.2.1` | 2021-04-14 | `^0.1.0-beta.16` | [Browse](https://github.com/flarchive/ianm-follow-users/tree/archive/v0.2.1) |
+| `0.2.2` | 2021-04-20 | `^0.1.0-beta.16` | [Browse](https://github.com/flarchive/ianm-follow-users/tree/archive/v0.2.2) |
+| `1.0.0` | 2021-05-26 | `^1.0.0` | [Browse](https://github.com/flarchive/ianm-follow-users/tree/archive/v1.0.0) |
+| `1.0.1` | 2021-07-14 | `^1.0.0` | [Browse](https://github.com/flarchive/ianm-follow-users/tree/archive/v1.0.1) |
+| `1.0.2` | 2021-07-26 | `^1.0.0` | [Browse](https://github.com/flarchive/ianm-follow-users/tree/archive/v1.0.2) |
+| `1.0.3` | 2021-07-27 | `^1.0.0` | [Browse](https://github.com/flarchive/ianm-follow-users/tree/archive/v1.0.3) |
+
+[View all 41 versions](https://github.com/flarchive/ianm-follow-users/tags)
 
 Catalog entry: [packages/ianm-follow-users.json](https://github.com/flarchive/archive-index/blob/main/packages/ianm-follow-users.json)
 
